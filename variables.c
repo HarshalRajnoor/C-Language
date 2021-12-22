@@ -5,6 +5,8 @@ int main()
     int a = 15;
     printf("The value of a is: %d \n", a);
 
+//  & Returns the address of a variable.
+ 
     printf("Enter the number");
     int b;
     scanf("%d", &b);
