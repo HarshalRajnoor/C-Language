@@ -16,9 +16,9 @@ int main()
     printf("The value of b is %f \n",b);
     
 
-    // Arithmetic Instructions
+    //  Arithmetic Instructions
     
-    //Arithmetic Operation is performed on cperands with the help of operators
+    //  Arithmetic Operation is performed on cperands with the help of operators
     
     /*
         Arithmetic Operators
