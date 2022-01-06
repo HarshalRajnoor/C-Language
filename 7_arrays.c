@@ -12,6 +12,7 @@ int main()
 
     4) It is important to note that array index starts with 0
     5) 1 integer = 4 bytes
+    6) In memory array is stored in row wise
     */
     int marks[5];
     marks[0] = 0;
@@ -121,6 +122,5 @@ int main()
     if(y>z){
         printf("y is greater than z \n");
     }
-    
         return 0;
 }
