@@ -136,4 +136,5 @@ void main()
     //Q9 - Write a program to check whether a given character is present in the string or not
     char *z = "harshal";
     checkChar(z, 'a');
+    
 }
